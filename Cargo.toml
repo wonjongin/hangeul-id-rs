@@ -1,0 +1,15 @@
+[package]
+name = "hangeul-id"
+version = "0.1.0"
+edition = "2021"
+description = "Shorter unique id using Hangeul"
+authors = ["wonjongin <polders00_engrams@icloud.com>"]
+repository = "https://github.com/wonjongin/hangeul-id-rs"
+readme = "README.md"
+license = "MIT"
+keywords = ["unique", "id", "hangeul"]
+include = ["/src", "/examples", "LICENSE", "Cargo.toml"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
